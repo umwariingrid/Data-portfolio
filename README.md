@@ -1,4 +1,4 @@
-# Data Analysis Portfolio.
+Data Analysis Portfolio.
 
 1. About Me
    I am an aspiring data analyst passionate about transforming raw data into actionable insights.
@@ -29,15 +29,28 @@
   Deposit: 2.8% fraud rate
   "Transfers and withdrawals carry significantly higher fraud risk than purchases or deposits.
 
-How to Run This Project
+4. Project 2: African Online Mobile Usage Analysis
+- Overview
+  I analyzed mobile usage patterns across 10 African countries using synthetic data generated with Python's Faker library.
+  Examined usage behaviors to identify key trends in data consumption, call patterns, and demographic preferences across different regions and
+  time periods.
+- Tools used
+  Python (Pandas, NumPy, Matplotlib, Seaborn)
+  Faker library for synthetic data
+  Jupyter Notebooks for analysis
+- Key Dimensions Analyzed:
+  Data usage volume and call frequency by country
+  Age demographics and usage intensity
+  weekday vs. weekend behavior patterns
+- Key Findings
+  Nigeria: 425 MB avg data usage (highest across all countries)
+  Age 18-30: 3x more data consumption than other age groups
+  Weekends: 40% more data usage, 30% fewer calls compared to weekdays
+
+5. How to Run The Projects
 1. Clone the repo
-   git clone
 2. Navigate to project folder
-   cd fraud-analysis
 3. Install dependencies
-   pip install -r requirements.txt
 4. Generate synthetic dataset
-   python generate_fraud_data.py
 5. Run the analysis
-   python fraud_analysis.py
      
