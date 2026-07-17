@@ -48,9 +48,9 @@ Data Analysis Portfolio.
   Weekends: 40% more data usage, 30% fewer calls compared to weekdays
 
 5. How to Run The Projects
-1. Clone the repo
-2. Navigate to project folder
-3. Install dependencies
-4. Generate synthetic dataset
-5. Run the analysis
+   - Clone the repo
+   - Navigate to project folder
+   - Install dependencies
+   - Generate synthetic dataset
+   - Run the analysis
      
